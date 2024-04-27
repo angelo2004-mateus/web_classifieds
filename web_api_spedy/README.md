@@ -20,7 +20,7 @@ O projeto foi organizado em duas pastas principais: `frontend` e `backend`, segu
 
 - **Backend**: Responsável por lidar com as requisições dos clientes, processar dados e fornecer respostas. Utiliza Node.js com Express para criar e gerenciar o servidor da aplicação.
 
-![Descrição da imagem](./frontend/img/)
+![Descrição da imagem](./frontend/img/imgProjeto1.jpeg)
 ![Descrição da imagem](./frontend/img/imgProjeto2.jpeg)
 ![Descrição da imagem](./frontend/img/imgProjeto3.jpeg)
 
